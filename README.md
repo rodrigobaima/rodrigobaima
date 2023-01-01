@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Baima
 
-- 🔭 Hoje trabalho com Oracle APEX
-- 🌱 Aplicações pessoais com: Angular e NodeJS
+- 🔭 Hoje trabalho com ReactJS
+- 🌱 Aplicações pessoais com: ReactJS e NodeJS
 
 <div>
   <a href="https://github.com/rodrigobaima">
