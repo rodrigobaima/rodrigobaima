@@ -3,8 +3,8 @@
   <h2>Olá! Eu sou o Rodrigo Baima</h2>
 </div>
  
-- 🔭 Hoje trabalho com ReactJS
-- 🌱 Aplicações pessoais com: ReactJS
+- 🔭 Hoje trabalho com aplicações escaláveis 
+- 🌱 Aplicações pessoais com: Tecnologias Web
 
 <div>
   <a href="https://github.com/rodrigobaima">
