@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou o Rodrigo Baima
+# Olá! Eu sou o Rodrigo Baima
 
 **Full Stack Developer | Python • Django • JavaScript • MySQL**
 
@@ -8,7 +8,7 @@ Tenho experiência no desenvolvimento de sistemas para o setor público, projeto
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Backend
 - Python
@@ -32,17 +32,17 @@ Tenho experiência no desenvolvimento de sistemas para o setor público, projeto
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### 📚 Parabook
+### Parabook
 Plataforma web desenvolvida em Django para gerenciamento e leitura de livros digitais, com autenticação de usuários, painel administrativo, comunidades, upload de obras e biblioteca pessoal.
 
-### 🏙 Belém Invisível
+### Belém Invisível
 Aplicação web voltada para divulgação do turismo em Belém, permitindo explorar pontos turísticos, visualizar informações e interagir com o conteúdo.
 
 ---
 
-## 📖 Atualmente estudando
+## Atualmente estudando
 
 - Docker
 - PostgreSQL
@@ -51,15 +51,14 @@ Aplicação web voltada para divulgação do turismo em Belém, permitindo explo
 
 ---
 
-## 📫 Contato
+## Contato
 
-📧 **E-mail**
+**E-mail**
 
 rodrigo.baima.10@gmail.com
 
-💼 **LinkedIn**
+ **LinkedIn**
 
 https://www.linkedin.com/in/rodrigo-baima
 
----
-⭐ Obrigado por visitar meu perfil!
+
